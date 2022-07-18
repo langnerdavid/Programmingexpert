@@ -1,0 +1,1 @@
+input("Enter the number of teams in the tournament: ")
